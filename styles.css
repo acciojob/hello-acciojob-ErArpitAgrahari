@@ -1,9 +1,5 @@
 
 /* Your CSS Code here. */
-<main class="accio" id="job">
-    <p class="hello-accio">Hello Accio Job</p>
-</main>
-
 main.accio#job{
     width:150px;
     height:150px;
