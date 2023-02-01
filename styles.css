@@ -1,2 +1,17 @@
 
 /* Your CSS Code here. */
+<main class="accio" id="job">
+    <p class="hello-accio">Hello Accio Job</p>
+</main>
+
+main.accio#job{
+    width:150px;
+    height:150px;
+    background:rgb(0, 0, 0);
+}
+
+p.hello-accio{
+    margin-left: 32px;
+    color:white;
+    padding:10px;
+}
